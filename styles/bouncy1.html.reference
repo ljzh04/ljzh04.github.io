@@ -1,0 +1,18 @@
+<h1>BOUNCY</h1>
+<p>change the bounciness in the CSS!</p>
+<div class="radio-group">
+  <input type="radio" id="Number 1" name="color" value="Number 1" checked />
+  <label for="Number 1">Info</label>
+
+  <input type="radio" id="Number 2" name="color" value="Number 2" />
+  <label for="Number 2">Blog</label>
+
+  <input type="radio" id="Number 3" name="color" value="Number 3" />
+  <label for="Number 3">Work</label>
+
+  <div class="selection-indicator-wrapper">
+    <span class="selection-indicator"></span>
+  </div>
+</div>
+
+<a href="http://cooltypinggame.com" target="_blank" class="link">view source</a>
