@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.ljzh04.opnjrnl",
-        "sha256_cert_fingerprints": ["4C:14:B8:34:81:C5:34:2E:0C:71:94:46:81:64:E2:20:E7:D2:20:58:23:EC:A6:DD:D0:69:E8:EF:25:5E:B1:A1"]
+        "sha256_cert_fingerprints": ["4E:56:D3:7E:42:54:02:FD:D9:50:39:94:88:0E:C7:3C:B5:CB:86:3B:94:98:44:48:15:A0:E3:9B:D2:1D:DD:7E"]
       }
     }]
