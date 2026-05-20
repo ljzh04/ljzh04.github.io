@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.l4xp.cjrnl.twa",
-        "sha256_cert_fingerprints": ["84:88:60:C4:F5:22:06:B4:FB:E1:5D:01:C5:22:4C:1C:28:A8:21:78:BD:CB:41:51:4D:FB:AE:3A:2E:26:13:1C"]
+        "package_name": "io.github.ljzh04.opnjrnl",
+        "sha256_cert_fingerprints": ["4C:14:B8:34:81:C5:34:2E:0C:71:94:46:81:64:E2:20:E7:D2:20:58:23:EC:A6:DD:D0:69:E8:EF:25:5E:B1:A1"]
       }
     }]
